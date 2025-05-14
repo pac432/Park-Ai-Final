@@ -1,2 +1,2 @@
 # Park-Ai-Final
-manifest a 100%!!!!!
+manifesting a 100%!!!!!
