@@ -1,12 +1,5 @@
-rubric:
-
-v Github Link (10 points) - DUE Wed May 14 2025 before class
- Proposal (10 points) -  DUE Wed May 14 2025 before class
- Rough Draft (20 points) - DUE Wed May 20 2025 end of class
- Final Submission (95 points) - DUE Wed May 28 2025 23:59:59 
-   Link to Gemini chat session (5 points): 
-   Research Depth & Analysis (20 points): Thoroughness of investigation, critical analysis of impacts, challenges, and ethical considerations.
-   Report Clarity & Structure (20 points): Organization, writing quality, proper citations, and clear presentation of findings.
-   PoC Relevance & Conception (20 points): Clear connection between the PoC and the research report; appropriateness of the chosen AI technique.
-   PoC Technical Implementation (20 points): Correctness and clarity of code, appropriate use of libraries/APIs, adherence to requirements (README, comments).
-   Ethical Consideration (10 points): Thoughtful discussion of ethical issues in the report. 
+tensorflow
+numpy
+scikit-learn
+opencv-python
+matplotlib
